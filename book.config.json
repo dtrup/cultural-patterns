@@ -1,0 +1,12 @@
+{
+  "title": "Your Book Title",
+  "author": "Your Name",
+  "genre": "non-fiction",
+  "target_words": 80000,
+  "chapter_target": 4000,
+  "style": "engaging-authoritative",
+  "publishing": {
+    "github_pages": true,
+    "hypothesis_comments": true
+  }
+}

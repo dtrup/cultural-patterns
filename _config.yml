@@ -1,0 +1,48 @@
+# Site settings
+title: "Your Book Title"
+description: "Your book description"
+author: "Your Name"
+baseurl: "/your-repo-name"
+url: "https://your-username.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+# Force rebuild
+
+# Disable header navigation completely - empty array means show nothing
+header_pages: []
+
+# Kramdown settings
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  hard_wrap: false
+
+# Include/Exclude files
+exclude:
+  - brainstorms
+  - .claude
+  - scripts
+  - README.md
+  - CLAUDE.md
+  - PROJECT.md
+  - CONTRIBUTING.md
+  - SDK_FEATURES.md
+  - PUBLISHING.md
+  - BOOK_SUMMARY.md
+  - TOC.md
+  - book.config.json
+  - style-guide.md
+  - outlines
+
+# Defaults
+defaults:
+  - scope:
+      path: "chapters"
+    values:
+      layout: "chapter"
+  - scope:
+      path: ""
+    values:
+      layout: "default"

@@ -1,0 +1,58 @@
+# Build outputs
+build/*.pdf
+build/*.epub
+build/*.mobi
+build/*.docx
+build/*.html
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+*-backup.*
+
+# Log files
+*.log
+logs/
+
+# Personal notes (not part of book)
+personal-notes/
+scratch/
+*.personal.md
+
+# Temporary writing files
+*.draft
+*.wip
+*-temp.md
+
+# Research cache
+.research-cache/
+
+# Node modules if using any JS tools
+node_modules/
+
+# Python cache if using any Python tools
+__pycache__/
+*.pyc
+
+# Generated content that should be rebuilt
+word-count-report.md
+validation-report.md
+style-report.md

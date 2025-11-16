@@ -1,0 +1,2 @@
+# This file ensures the chapters directory is tracked by git
+# Individual chapter files will be created here following the naming convention: chapter-01.md, chapter-02.md, etc.
