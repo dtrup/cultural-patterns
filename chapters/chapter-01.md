@@ -1,6 +1,8 @@
 ---
 layout: chapter
 title: "Chapter 1: Introduction: The Quest for Patterns"
+status: complete
+completed_date: 2025-11-17
 ---
 
 # Chapter 1: Introduction: The Quest for Patterns
