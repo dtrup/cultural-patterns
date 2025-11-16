@@ -1,14 +1,13 @@
 # Site settings
-title: "Your Book Title"
-description: "Your book description"
-author: "Your Name"
-baseurl: "/your-repo-name"
-url: "https://your-username.github.io"
+title: "Cultural Pattern"
+description: "A Pattern Science Approach to Religion and Culture"
+author: "DTP"
+baseurl: "/cultural-patterns"
+url: "https://dtp-github.io"
 
 # Build settings
 markdown: kramdown
 theme: minima
-# Force rebuild
 
 # Disable header navigation completely - empty array means show nothing
 header_pages: []
@@ -22,6 +21,7 @@ kramdown:
 # Include/Exclude files
 exclude:
   - brainstorms
+  - outlines
   - .claude
   - scripts
   - README.md
@@ -34,7 +34,6 @@ exclude:
   - TOC.md
   - book.config.json
   - style-guide.md
-  - outlines
 
 # Defaults
 defaults:

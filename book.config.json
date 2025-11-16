@@ -1,10 +1,10 @@
 {
-  "title": "Your Book Title",
-  "author": "Your Name",
+  "title": "Cultural Pattern",
+  "author": "DTP",
   "genre": "non-fiction",
-  "target_words": 80000,
+  "target_words": 120000,
   "chapter_target": 4000,
-  "style": "engaging-authoritative",
+  "style": "engaging-authoritative, elegant, sophisticated, no AI cliches",
   "publishing": {
     "github_pages": true,
     "hypothesis_comments": true
