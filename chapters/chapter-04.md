@@ -13,7 +13,7 @@ In the deserts of ancient Egypt, Akhenaten proclaimed Aten—the sun disk—as t
 
 These examples span continents and centuries, yet they share a fundamental pattern: humans attribute intentionality, consciousness, and causal power to entities beyond the empirically observable. Spirits inhabit mountains. Ancestors speak through mediums. A transcendent deity ordains cosmic order. The forms vary dramatically—from localized kami to abstract monotheistic divinity—but the underlying mechanism remains consistent. Supernatural agents emerge through predictable cognitive operations, generating one of humanity's most persistent pattern complexes.
 
-This chapter examines how minds construct categories of supernatural presence. Three interlocking mechanisms—hyperactive agency detection, theory of mind extension, and minimally counterintuitive concept formation—produce agents across cultures with striking consistency. Yet the same mechanisms that create local mountain spirits also generate cosmic deities, showing how cognitive architecture allows both recurrence and variation. Social functions, ecological contexts, and historical trajectories shape these basic cognitive operations into the diverse supernatural landscapes found across traditions.
+Three interlocking mechanisms—hyperactive agency detection, theory of mind extension, and minimally counterintuitive concept formation—produce agents across cultures with striking consistency. Yet the same mechanisms that create local mountain spirits also generate cosmic deities, showing how cognitive architecture allows both recurrence and variation. Social functions, ecological contexts, and historical trajectories shape these basic cognitive operations into the diverse supernatural landscapes found across traditions.
 
 ## 4.1. Pattern Recognition: The Agency Complex
 
@@ -41,6 +41,8 @@ These three mechanisms—HADD, ToM, MCI—work in concert. HADD detects potentia
 
 The neural basis of agency attribution involves distributed networks rather than localized modules. When believers engage with supernatural agents through prayer, ritual, or contemplation, multiple brain regions coordinate activity. The temporal-parietal junction handles perspective-taking—modeling what the deity perceives or intends. Medial prefrontal cortex processes mental state attribution—inferring divine beliefs, desires, emotions. Superior temporal sulcus interprets motion patterns as goal-directed action, even when motion remains imagined rather than observed.
 
+When a Hindu devotee contemplates Ganesh, these same regions activate—the temporal-parietal junction modeling what the elephant-headed deity perceives, the medial prefrontal cortex inferring divine intentions, the superior temporal sulcus interpreting imagined movements as purposive action. The mind treats invisible agents as social partners.
+
 Critically, these regions show similar activation patterns whether subjects contemplate human or divine agents, with temporal differences distinguishing the two (Epley et al. 2009). Religious believers attribute more mental states to ambiguous motion than skeptics, suggesting individual variation in attribution thresholds. Yet the underlying machinery remains constant: social cognition extended beyond social targets.
 
 This neural architecture imposes constraints on possible agent concepts. Supernatural entities almost universally receive intentionality—beliefs, desires, purposes. Deities without mental states prove cognitively difficult to maintain. The impersonal Dao of philosophical Daoism or the non-agent Brahman of Advaita Vedanta require sophisticated training to conceptualize, precisely because they violate the default tendency to anthropomorphize (Adler 2002). Most traditions default to personalized agency: gods who act, care, judge, respond.
@@ -51,7 +53,7 @@ The structure of minimally counterintuitive concepts follows predictable pattern
 
 **Kami**: Category NATURAL OBJECT + violation of psychological expectations (rivers have intentions, mountains make decisions) + preserved location, material properties. Creates sacred geography without departing entirely from physical reality.
 
-**Angels**: Category PERSON + violations of physics (flight without wings, dimensional transcendence), biology (created rather than born, immortal) + preserved knowledge, moral agency, intentional action.
+Angels in Abrahamic traditions follow the same formula. The celestial beings occupy the PERSON category while violating physical expectations—flight without wings, movement across dimensions—and biological norms—created rather than born, existing beyond death. Yet they preserve the core attributes of agency: knowledge, moral judgment, intentional action directed toward purposive ends.
 
 **Talking Animals**: Category ANIMAL + violation of linguistic capacity + preserved animal form, behavior, ecological role. Recurs in folklore worldwide—Aesop's fables, Jataka tales, Native American coyote stories.
 
