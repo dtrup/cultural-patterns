@@ -163,3 +163,30 @@ This file maintains narrative continuity across chapters. Each summary is extrac
 **Transition to Next Chapter**: Chapter 6 examined how boundaries maintain cosmological order through categorical separation, pollution management, and ritual enforcement. These boundaries require authorities to determine what constitutes pollution, when purification is needed, and who can access sacred space. Chapter 7 explores authority patterns—how traditions establish the right to interpret boundaries, transmit sacred knowledge, perform essential rituals, and represent supernatural agents. If boundaries preserve cosmic order, authority structures determine the boundaries themselves and police their maintenance through institutional power and specialist knowledge.
 
 ---
+
+## Chapter 7: Authority and Legitimation: Power Patterns
+
+**Status:** ✅ Complete | **Word Count:** 4,734 | **Completed:** 2025-11-17
+
+**Core Argument**: Authority patterns emerge through predictable mechanisms—charismatic recognition, traditional legitimation, rational-legal institutionalization—that transform fluid, personal power into stable, transferable institutional structures. Succession crises reveal these mechanisms most clearly: the founder's death forces communities to choose how authority transfers, creating divergent institutional forms that shape power distribution for centuries. Each authority type contains internal tensions driving cycles of renewal and routinization across religious traditions. Authority and boundary are reciprocal—authorities interpret and police the categorical boundaries examined in Chapter 6, while boundaries legitimate authority by creating domains requiring specialist interpretation.
+
+**Key Concepts Introduced**:
+- Weber's three authority types: charismatic (personal extraordinary qualities), traditional (ancestral precedent and custom), rational-legal (impersonal rules and formal procedures)
+- Routinization of charisma: transformation of personal authority into institutional forms following founder's death
+- Succession mechanisms: search (Dalai Lama reincarnation), revelation (supernatural designation), designation by leader (Sufi khalifa), qualified staff election (papal conclave), hereditary transmission (Brahmin priests), office charisma (authority vesting in positions)
+- Orthodoxy and heterodoxy as retrospectively determined by authority structures, validated through historical outcomes rather than inherent correctness
+- Religious specialists serving distinct functions: shamans (spirit contact), priests (institutional ritual), prophets (charismatic revelation), gurus (spiritual teaching), imams (scholarly leadership), monks (disciplinary practice), ministers (congregational care)
+- Prestige-based versus dominance-based leadership: religious authority operating through costly signaling and freely chosen deference rather than coercion
+- Institutional structures distributing authority differently: Christian hierarchy (centralized vertical), Islamic scholarship (distributed horizontal), Jewish textual (decentralized knowledge-based)
+
+**Major Examples Used**:
+- Muhammad's succession crisis and Islamic institutionalization: charisma transforming into Sunni Caliphate (rational-legal) and Shia Imamate (traditional), demonstrating routinization dynamics
+- Papal conclave: maximally rationalized succession through cardinal election with formalized procedures, showing office charisma operating independently of personal qualities
+- Dalai Lama reincarnation: search and revelation mechanisms under contemporary political contestation, revealing succession control as power struggle
+- Shamanic versus priestly authority: structural contrast showing personal, fluid, idiosyncratic power transforming into institutional, transferable, standardized authority as societies scale
+- Balinese water temples: resource control through religious authority coordinating ecological management (Chapter 2 callback)
+- Sacred groves: ecological knowledge preservation requiring authority structures to validate and enforce taboos (Chapter 6 callback)
+
+**Transition to Next Chapter**: Chapter 7 established how authority structures emerge through succession mechanisms, distribute power through institutional forms, and determine orthodoxy through boundary maintenance. These authority structures control a crucial resource: sacred knowledge. Who can access esoteric teachings? Through what initiation processes? Under whose authorization? Chapter 8 explores knowledge and initiation patterns—how traditions transmit specialized religious knowledge across generations, create insider/outsider boundaries through revelation of secrets, and transform individuals through ritual processes requiring authorization from the very authority structures analyzed here. Authority determines knowledge transmission; knowledge transmission reproduces authority.
+
+---

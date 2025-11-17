@@ -1,6 +1,8 @@
 ---
 layout: chapter
 title: "Chapter 7: Authority and Legitimation: Power Patterns"
+status: complete
+completed_date: 2025-11-17
 ---
  
 # Chapter 7: Authority and Legitimation: Power Patterns
