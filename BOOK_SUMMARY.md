@@ -12,15 +12,15 @@
 
 | Status | Count | Words |
 |--------|-------|-------|
-| ✅ Complete | 4 | 17,155 |
+| ✅ Complete | 5 | 21,407 |
 | 🔍 Revised | 0 | 0 |
 | ✍️ Drafted | 0 | 0 |
 | 📋 Outlined | 0 | 0 |
 | 🧠 Brainstormed | 0 | 0 |
-| ⬜ Not Started | 32 | 0 |
-| **TOTAL** | **36** | **17,155 / 120,000** |
+| ⬜ Not Started | 31 | 0 |
+| **TOTAL** | **36** | **21,407 / 120,000** |
 
-**Completion:** 14.3% | **Word Count:** 17,155 / 120,000
+**Completion:** 17.8% | **Word Count:** 21,407 / 120,000
 
 ---
 
@@ -55,9 +55,10 @@
 - **Progress:** Full chapter with opening case study (spirit attribution across traditions), six main sections (Pattern Recognition, Cognitive Foundations, Social Functions, Ecological Adaptations, Historical Transformations, Cross-Tradition Comparison), Pattern Mapping Exercise, Counter-Pattern Analysis (Buddhist/Daoist non-theism), and chapter summary
 
 ### Chapter 5: Order and Chaos: Cosmological Patterning
-- **Status:** ⬜ Not Started
-- **Word Count:** 0 / 4,000
-- **Progress:** None yet
+- **Status:** ✅ Complete
+- **Word Count:** 4,252 / 4,000
+- **Completed:** 2025-11-17
+- **Progress:** Full chapter with opening case study (creation myths as ordering systems), six main sections (Pattern Recognition, Cognitive Foundations, Social Functions, Ecological Adaptations, Historical Transformations, Cross-Tradition Comparison), Pattern Mapping Exercise, Counter-Pattern Analysis (Buddhist/Daoist emptiness traditions), and chapter summary
 
 ### Chapter 6: Sacred and Profane: Boundary Patterns
 - **Status:** ⬜ Not Started

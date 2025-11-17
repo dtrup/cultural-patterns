@@ -103,3 +103,34 @@ This file maintains narrative continuity across chapters. Each summary is extrac
 **Transition to Next Chapter**: Chapter 4 examined how humans construct categories of supernatural agents—entities with intentions, consciousness, and causal power. These agents don't merely exist as isolated concepts; they organize cosmos and maintain order. Chapter 5 turns to cosmological patterns: how traditions structure space, time, and existence itself through recurring architectural principles. If agency attribution creates the who of supernatural presence, cosmology establishes the where, when, and how—the frameworks within which agents operate and humans find orientation. The axis mundi connecting heaven and earth, the cycle of cosmic ages, the layered structure of reality all emerge through predictable cognitive operations mapped onto cultural contexts, generating new pattern families that build upon but transcend agency concepts.
 
 ---
+
+## Chapter 5: Order and Chaos: Cosmological Patterning
+
+**Status:** ✅ Complete | **Word Count:** 4,252 | **Completed:** 2025-11-17
+
+**Core Argument**: Cosmological ordering patterns emerge from fundamental cognitive drives—categorization, pattern completion, and causal explanation-seeking—operating within social, ecological, and historical contexts to generate recurring structures (order-from-chaos narratives, axis mundi sacred geography, temporal cycles) across disconnected traditions. These patterns serve multiple functions: satisfying cognitive needs for organized understanding, legitimizing social hierarchies, encoding ecological knowledge, and coordinating collective action. Historical processes show systematic evolution from diverse oral traditions toward systematized frameworks, with profound theological variation (linear vs. cyclical time, transcendent vs. immanent principles) occurring within structural convergence. Counter-traditions (Buddhist emptiness, Daoist non-being) demonstrate that sophisticated religious systems can systematically question cosmological ordering itself, revealing pattern-making as chosen rather than inevitable.
+
+**Key Concepts Introduced**:
+- Cosmological complex: chaos/cosmos distinction, ordering principles, boundary maintenance
+- Cognitive foundations: categorization (hierarchical organization), pattern completion (schema filling), explanation-seeking (ultimate causes)
+- Axis mundi as convergent sacred geography solving spatial orientation problems
+- Social functions: hierarchy legitimation through cosmic mirroring, specialist authority from cosmological knowledge, coordination through shared frameworks
+- Ecological encoding: seasonal cycles in cosmological calendars, environmental regularities reflected in creation narratives, traditional ecological knowledge preserved through cosmological transmission
+- Historical abstraction: evolution from oral myths to systematic cosmologies, path dependence in temporal frameworks (linear vs. cyclical), theological responses to scientific cosmology
+- Cross-tradition structural patterns: vertical hierarchies, sacred centers, temporal organization despite theological divergence
+- Counter-patterns: Buddhist śūnyatā (emptiness as ultimate reality), Daoist wu (non-being as primordial), systematic rejection of cosmological ordering as sophisticated philosophical position
+
+**Major Examples Used**:
+- Balinese farmer enacting Mount Meru cosmology through irrigation ritual (opening hook connecting to Chapter 2)
+- Genesis tohu wa-bohu: order imposed on primordial chaos through divine categorization
+- Axis mundi convergence: Mount Meru (Hindu), Yggdrasil (Norse), Mount Fuji (Shinto), Delphi omphalos (Greek), Chaco Canyon (Ancestral Puebloan) demonstrating independent development of sacred center pattern
+- Hindu yugas: cyclical time through nested ages (Satya, Treta, Dvapara, Kali) spanning millions of years
+- Chinese yin-yang and Five Phases: correlative cosmology organizing phenomena through correspondence webs
+- Aboriginal Australian Dreaming: songlines as embodied cosmology integrating creation narrative, navigation, ecological knowledge, and social law
+- Medieval Great Chain of Being: cosmological hierarchy justifying social stratification
+- Mayan astronomical observation: Venus cycles and eclipses predicting rainy seasons for agricultural timing
+- Buddhist emptiness (śūnyatā) and Daoist non-being (wu): sophisticated counter-patterns rejecting cosmological ordering
+
+**Transition to Next Chapter**: Chapter 5 examined how cosmological patterns structure space, time, and existence through recurring organizational principles—establishing cosmic order against chaos, creating sacred centers, articulating hierarchies of beings and realms. But cosmological structures require maintenance. The ordered cosmos constantly faces threats: category violations, boundary transgressions, entropic dissolution. Chapter 6 explores the pattern complex of sacred and profane—how traditions establish, maintain, and police boundaries between categories through taboo systems, purity regulations, and ritual practices. If cosmology creates the architecture of ordered reality, boundary maintenance preserves it. The mechanisms shift from construction to conservation, from establishing categories to preventing their contamination, from articulating cosmic principles to enforcing them through social practice.
+
+---
