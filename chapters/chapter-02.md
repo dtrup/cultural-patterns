@@ -1,9 +1,8 @@
 ---
-
 layout: chapter
-
 title: "Chapter 2: The Four Dimensions: A Matrix for Pattern Analysis"
-
+status: complete
+completed_date: 2025-11-17
 ---
 
  
