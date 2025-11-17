@@ -134,3 +134,32 @@ This file maintains narrative continuity across chapters. Each summary is extrac
 **Transition to Next Chapter**: Chapter 5 examined how cosmological patterns structure space, time, and existence through recurring organizational principles—establishing cosmic order against chaos, creating sacred centers, articulating hierarchies of beings and realms. But cosmological structures require maintenance. The ordered cosmos constantly faces threats: category violations, boundary transgressions, entropic dissolution. Chapter 6 explores the pattern complex of sacred and profane—how traditions establish, maintain, and police boundaries between categories through taboo systems, purity regulations, and ritual practices. If cosmology creates the architecture of ordered reality, boundary maintenance preserves it. The mechanisms shift from construction to conservation, from establishing categories to preventing their contamination, from articulating cosmic principles to enforcing them through social practice.
 
 ---
+
+## Chapter 6: Sacred and Profane: Boundary Patterns
+
+**Status:** ✅ Complete | **Word Count:** 4,835 | **Completed:** 2025-11-17
+
+**Core Argument**: Boundaries between sacred and profane emerge through predictable cognitive mechanisms (pollution psychology, contagion intuitions, disgust responses) operating within social hierarchies and ecological constraints to create recurring systems of taboo, purity regulation, and ritual maintenance that order experience, establish identity, and police categorical boundaries. Sacred categories are defined through exclusion; transgression creates cosmological threat requiring ritual remediation; yet boundaries remain historically contingent, revealed as human constructions when legitimacy crumbles.
+
+**Key Concepts Introduced**:
+- Sacred/profane complex: demarcation, transgression, contamination as triple mechanism
+- Pollution as "matter out of place" (Douglas) requiring categorical rather than biological explanation
+- Cognitive foundations: contagion intuitions (contact = contamination), similarity principles (resemblance = essence), disgust as behavioral immune system extending to moral domains
+- Social functions: boundary-based identity formation, purity hierarchies encoding status, authority structures policing categories
+- Ecological adaptations: sacred groves as conservation mechanisms, dietary laws embedding regional constraints, isolation practices serving multiple functions
+- Historical transformations: elaboration (intensification over time), rigidification (absolute enforcement), relaxation (reform challenges), secularization (boundary fragmentation and new sacralizations)
+- Cross-tradition patterns: structural convergence despite theological divergence in dietary, spatial, temporal, and bodily boundaries
+- Counter-pattern: Tantric transgression demonstrating controlled boundary violation intensifying rather than dissolving hierarchical authority
+
+**Major Examples Used**:
+- Sabarimala temple access controversy (opening hook): women's exclusion and court challenge revealing boundary as human construction
+- Kosher/halal dietary laws: categorical systems establishing identity through daily practice, meat-dairy separation, slaughter requirements
+- Indian caste system: purity-based hierarchy, untouchability, food acceptance patterns, medieval elaboration
+- Menstrual taboos: cross-cultural exclusions (Hindu, Jewish, Islamic, Asante, Kalash), dual pollution/sacred paradox, Levitical purification periods
+- Sacred groves: conservation through taboo enforcement (India, Ghana, Nigeria), biodiversity outcomes, supernatural sanction compliance
+- Reform movements: Reform Judaism relaxing kashrut, Protestant elimination of sacramental boundaries, Wahhabi repositioning
+- Buddhist Tantra: controlled antinomianism, ritual transgression under guru authorization, boundary violation proving boundary reality
+
+**Transition to Next Chapter**: Chapter 6 examined how boundaries maintain cosmological order through categorical separation, pollution management, and ritual enforcement. These boundaries require authorities to determine what constitutes pollution, when purification is needed, and who can access sacred space. Chapter 7 explores authority patterns—how traditions establish the right to interpret boundaries, transmit sacred knowledge, perform essential rituals, and represent supernatural agents. If boundaries preserve cosmic order, authority structures determine the boundaries themselves and police their maintenance through institutional power and specialist knowledge.
+
+---
