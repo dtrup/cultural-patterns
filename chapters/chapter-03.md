@@ -1,6 +1,8 @@
 ---
 layout: chapter
 title: "Chapter 3: Methodological Toolkit"
+status: complete
+completed_date: 2025-11-17
 ---
 
 # Chapter 3: Methodological Toolkit
