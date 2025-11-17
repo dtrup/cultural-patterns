@@ -8,8 +8,7 @@ allowed-tools: Task, Read, Write, Edit, Bash, SlashCommand
 Execute all phases of chapter creation in sequence:
 1. **Prepare** (research & brainstorm)
 2. **Write** (polished content)
-3. **Style Check** (editorial review)
-4. **Complete** (finalize & update progress)
+3. **Complete** (finalize & update progress)
 
 ## Your Task
 
@@ -48,21 +47,7 @@ Execute: `/writeChapter $1`
 
 ---
 
-### Phase 3: Style Check Chapter $1
-
-Execute: `/styleCheck $1`
-
-**After completion:**
-- Review style-editor feedback summary
-- Note critical/high-priority issues (if any)
-- Ask user: "Apply suggested edits now? (yes/no)"
-  - If yes: Make recommended changes using Edit tool
-  - If no or minor issues: Proceed to completion
-- Status: ✅ Phase 3 Complete - Editorial Review Done
-
----
-
-### Phase 4: Complete Chapter $1
+### Phase 3: Complete Chapter $1
 
 Execute: `/completeChapter $1`
 
