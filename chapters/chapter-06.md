@@ -1,6 +1,8 @@
 ---
 layout: chapter
 title: "Chapter 6: Sacred and Profane: Boundary Patterns"
+status: complete
+completed_date: 2025-11-17
 ---
  
 # Chapter 6: Sacred and Profane: Boundary Patterns
