@@ -74,3 +74,32 @@ This file maintains narrative continuity across chapters. Each summary is extrac
 **Transition to Next Chapter**: Chapter 3 established the methodological toolkit for rigorous pattern recognition; Chapters 4-6 apply these methods to specific foundational pattern complexes. Chapter 4 examines agency and being—how humans construct categories of supernatural agents through predictable cognitive mechanisms while generating enormous cultural variation. The validation criteria, scale-appropriate analysis, and comparative strategies developed here guide that investigation.
 
 ---
+
+## Chapter 4: Agency and Being: Patterns of Supernatural Presence
+
+**Status:** ✅ Complete | **Word Count:** 5,121 | **Completed:** 2025-11-17
+
+**Core Argument**: Humans construct supernatural agents through three interlocking cognitive mechanisms—hyperactive agency detection (HADD), theory of mind (ToM) application to invisible entities, and minimally counterintuitive (MCI) concept formation. These mechanisms generate recurring categories across cultures (spirits, gods, ancestors, angels) while allowing enormous variation in specific forms. Historical processes abstract agency from distributed animistic spirits toward consolidated polytheistic pantheons and transcendent monotheistic deities, though non-theistic traditions (Buddhism, Daoism) demonstrate that sophisticated religious systems can develop without conventional supernatural agents.
+
+**Key Concepts Introduced**:
+- Hyperactive agency detection (HADD) as evolutionary adaptation with religious consequences
+- Theory of mind (ToM) applied to supernatural beings, modeling invisible agents through social cognition
+- Minimally counterintuitive (MCI) concepts optimizing memorability through controlled ontological violations
+- Supernatural agents serving social functions: specialist authority, political legitimation, community cohesion
+- Ecological factors shaping agency attribution: landscape features, environmental unpredictability, resource management
+- Historical abstraction sequence: animism (distributed agency) → polytheism (organized pantheons) → monotheism (transcendent unity)
+- Cross-tradition variation in agent ontology, scope, relational modes, and knowledge access
+- Counter-patterns challenging agency universalism: Buddhist dharma, Daoist Dao as impersonal principles
+
+**Major Examples Used**:
+- Mount Fuji and Sengen-Sama kami (Japanese Shinto sacred geography)
+- Sakalava spirit possession mediums (Madagascar ancestor agency)
+- Akhenaten's Aten and monotheistic abstraction (historical transformation)
+- Hindu devas as non-omnipotent celestial beings (cross-tradition comparison)
+- Buddhist non-theism (counter-pattern analysis)
+- Sacred forests in Ethiopia (ecological conservation through spirits)
+- Balinese water temples (Chapter 2 callback—agent concepts encoding ecological knowledge)
+
+**Transition to Next Chapter**: Chapter 4 examined how humans construct categories of supernatural agents—entities with intentions, consciousness, and causal power. These agents don't merely exist as isolated concepts; they organize cosmos and maintain order. Chapter 5 turns to cosmological patterns: how traditions structure space, time, and existence itself through recurring architectural principles. If agency attribution creates the who of supernatural presence, cosmology establishes the where, when, and how—the frameworks within which agents operate and humans find orientation. The axis mundi connecting heaven and earth, the cycle of cosmic ages, the layered structure of reality all emerge through predictable cognitive operations mapped onto cultural contexts, generating new pattern families that build upon but transcend agency concepts.
+
+---

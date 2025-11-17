@@ -1,6 +1,8 @@
 ---
 layout: chapter
 title: "Chapter 4: Agency and Being: Patterns of Supernatural Presence"
+status: complete
+completed: 2025-11-17
 ---
 
 # Chapter 4: Agency and Being: Patterns of Supernatural Presence
