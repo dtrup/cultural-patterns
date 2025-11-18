@@ -12,15 +12,15 @@
 
 | Status | Count | Words |
 |--------|-------|-------|
-| ✅ Complete | 9 | 40,931 |
+| ✅ Complete | 10 | 46,406 |
 | 🔍 Revised | 0 | 0 |
 | ✍️ Drafted | 0 | 0 |
 | 📋 Outlined | 0 | 0 |
 | 🧠 Brainstormed | 0 | 0 |
-| ⬜ Not Started | 27 | 0 |
-| **TOTAL** | **36** | **40,931 / 120,000** |
+| ⬜ Not Started | 26 | 0 |
+| **TOTAL** | **36** | **46,406 / 120,000** |
 
-**Completion:** 34.1% | **Word Count:** 40,931 / 120,000
+**Completion:** 38.7% | **Word Count:** 46,406 / 120,000
 
 ---
 
@@ -89,9 +89,10 @@
 - **Progress:** Full chapter with opening case study (Temple of Inanna), nine main sections (Psychology of Sacred Giving, Temple Economies, Embedded Exchange, Monastic Wealth, Pilgrimage Commerce, Tithing and Almsgiving, Gift Economies and Power, Authority-Knowledge-Economics Loop, Conclusion), and chapter summary
 
 ### Chapter 10: Gender and Kinship: Relational Patterns
-- **Status:** ⬜ Not Started
-- **Word Count:** 0 / 4,000
-- **Progress:** None yet
+- **Status:** ✅ Complete
+- **Word Count:** 5,475 / 4,000
+- **Completed:** 2025-11-18
+- **Progress:** Full chapter with opening case study (Second Lateran Council 1139 celibacy mandate), three main sections (Pattern Recognition: Gender/Kinship Complex, Dimensional Analysis across cognitive/social/ecological/historical dimensions, Cross-Tradition Comparison: divine families, gendered deities, marriage rules, celibacy patterns), Pattern Mapping Exercise, and chapter summary
 
 ---
 
