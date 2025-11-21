@@ -5,22 +5,25 @@
 **Style:** Engaging-authoritative, elegant, sophisticated
 **Publishing:** GitHub Pages + Hypothesis comments
 **Last Updated:** 2025-11-19
-
----
+=======
 
 ## 📊 Overall Progress
 
 | Status | Count | Words |
 |--------|-------|-------|
-| ✅ Complete | 11 | 50,369 |
+| ✅ Complete | 11 | 50,683 |
+
 | 🔍 Revised | 0 | 0 |
 | ✍️ Drafted | 0 | 0 |
 | 📋 Outlined | 0 | 0 |
 | 🧠 Brainstormed | 0 | 0 |
 | ⬜ Not Started | 25 | 0 |
-| **TOTAL** | **36** | **50,369 / 120,000** |
 
 **Completion:** 42.0% | **Word Count:** 50,369 / 120,000
+=======
+| **TOTAL** | **36** | **50,683 / 120,000** |
+
+**Completion:** 42.2% | **Word Count:** 50,683 / 120,000
 
 ---
 
@@ -105,9 +108,10 @@
 - **Progress:** Full chapter with opening case study (prayer convergence across traditions), nine main sections (The Ritual Complex, Bodies That Remember, Synchrony and Solidarity, Sacred Calendars and Resource Pulses, From Fluidity to Orthodoxy, Prayer/Sacrifice/Pilgrimage/Meditation cross-tradition mapping, The Ritual of Anti-Ritual, Technologies of Transformation, Conclusion), and chapter summary. Examples deployed: Islamic salat, Jewish davening, Hindu puja, Buddhist meditation, Balinese water temples, Quaker silent worship counter-pattern.
 
 ### Chapter 12: Emotion and Affect: Feeling Patterns
-- **Status:** ⬜ Not Started
-- **Word Count:** 0 / 4,000
-- **Progress:** None yet
+- **Status:** ✅ Complete
+- **Word Count:** 4,277 / 4,000
+- **Completed:** 2025-11-21
+- **Progress:** Full chapter with opening case study (Teresa of Ávila's transverberation), four main sections (Pattern Recognition: emotional regimes, collective effervescence, emotional labor, affective transformation; Dimensional Analysis across cognitive/social/ecological/historical; Cross-Tradition Comparison of divergent emotional ideals), Pattern Mapping Exercise, and chapter summary
 
 ### Chapter 13: Body and Health: Somatic Patterns
 - **Status:** ⬜ Not Started
