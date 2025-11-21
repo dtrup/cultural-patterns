@@ -335,3 +335,36 @@ This file maintains narrative continuity across chapters. Each summary is extrac
 
 ---
 
+## Chapter 13: Body and Health: Somatic Patterns
+
+**Status:** ✅ Complete | **Word Count:** 3,931 | **Completed:** 2025-11-21
+
+**Core Argument**: Religious traditions systematize bodily experience into cultivated practices transforming flesh into spiritual instruments through embodied cognition, interoception, and procedural memory operating across cognitive, social, ecological, and historical dimensions. Four interlocking patterns recur: dietary regulations encoding theology into daily consumption, body modifications creating permanent identity markers, healing systems integrating cure within cosmological frameworks, and purity-pollution codes governing bodily boundaries.
+
+**Key Concepts Introduced**:
+- Four-pattern body complex: dietary regulation, body modification/marking, healing systems, purity-pollution codes
+- Embodied cognition: physical practices reshaping consciousness through physiological mechanisms (fasting generating ketosis, postures affecting emotional states, breath awareness as meditation)
+- Interoception: heightened awareness of internal bodily states becoming spiritual technology
+- Procedural memory: repeated bodily disciplines encoding religious expertise beneath conscious reasoning
+- Social synchrony through collective bodily discipline (Ramadan fasting, Lenten observance, monastic schedules)
+- Institutional control: monastic regulation, health authority structures, gender hierarchies through bodily restrictions
+- Ecological encoding: dietary restrictions reflecting environmental constraints, fasting calendars aligning with seasonal rhythms, healing systems preserving botanical knowledge
+- Path dependence in body practices: Jewish circumcision and kashrut elaboration, Christian fasting intensification then relaxation, healing system evolution from shamanic to systematized
+- Secularization revealing structural persistence: yoga as fitness, meditation as mindfulness, dietary laws as health trends
+
+**Major Examples Used**:
+- Opening case study: Medieval Christian Black Fast, Jain Paryushana, Muslim Ramadan demonstrating convergent fasting technology
+- Jewish circumcision (brit milah) and mikveh immersion as covenant marking and purity restoration
+- Hindu sadhus practicing extreme asceticism (Amar Bharati's raised arm, naga ascetic nakedness)
+- Medieval Christian monastic fasting (Rule of Benedict)
+- Jain dietary extremes and sallekhana (ritual fasting unto death)
+- Kosher and halal dietary laws encoding categorical systems
+- Ayurveda, Traditional Chinese Medicine, shamanic healing as integrated cosmological systems
+- Cross-cultural menstrual taboos (Hindu, Jewish, Islamic) and ritual remediation
+- Buddhist and Christian tonsure as permanent renunciation markers
+- Contemporary secularization of religious body practices (yoga, mindfulness, ethical diets)
+
+**Transition to Next Chapter**: Bodies examined here don't merely live—they age, sicken, and die. The bodily disciplines cultivating spiritual instruments prepare practitioners for the ultimate corporeal boundary: death itself. Monastic fasting rehearses dying's hunger. Extreme asceticism proves contempt for bodily survival. Healing systems address mortality's threat. Chapter 14 turns to death and afterlife patterns, examining how traditions handle finitude through funeral rites, ancestor veneration, cosmological journeys, and eschatological promises. If this chapter treated bodies as instruments, the next examines what happens when instruments break.
+
+---
+
