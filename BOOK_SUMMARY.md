@@ -10,16 +10,16 @@
 
 | Status | Count | Words |
 |--------|-------|-------|
-| ✅ Complete | 12 | 54,614 |
+| ✅ Complete | 13 | 58,896 |
 | 🔍 Revised | 0 | 0 |
 | ✍️ Drafted | 0 | 0 |
 | 📋 Outlined | 0 | 0 |
 | 🧠 Brainstormed | 0 | 0 |
-| ⬜ Not Started | 24 | 0 |
+| ⬜ Not Started | 23 | 0 |
 
-| **TOTAL** | **36** | **54,614 / 120,000** |
+| **TOTAL** | **36** | **58,896 / 120,000** |
 
-**Completion:** 33.3% (12 of 36 chapters) | **Word Count:** 45.5% (54,614 / 120,000)
+**Completion:** 36.1% (13 of 36 chapters) | **Word Count:** 49.1% (58,896 / 120,000)
 
 ---
 
@@ -116,9 +116,10 @@
 - **Progress:** Full chapter with opening case study (fasting across traditions), four main sections (Pattern Recognition: Body Complex, Dimensional Analysis across cognitive/social/ecological/historical, Cross-Tradition Comparison of circumcision/asceticism/menstrual regulation/healing cosmologies), Pattern Mapping Exercise, and chapter summary
 
 ### Chapter 14: Death and Eschatology: Terminal Patterns
-- **Status:** ⬜ Not Started
-- **Word Count:** 0 / 4,000
-- **Progress:** None yet
+- **Status:** ✅ Complete
+- **Word Count:** 4,282 / 4,000
+- **Completed:** 2025-11-21
+- **Progress:** Full chapter with opening case study (funerals as universal pattern comparing Tibetan sky burial, Jewish taharah/shiva, Yoruba celebration), four main sections (Pattern Recognition: Death Complex with van Gennep framework; Dimensional Analysis across cognitive/social/ecological/historical; Cross-Tradition Comparison of reincarnation/resurrection/spirit continuation systems), Pattern Mapping Exercise, and chapter summary
 
 ---
 
