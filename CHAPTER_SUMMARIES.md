@@ -278,6 +278,30 @@ This file maintains narrative continuity across chapters. Each summary is extrac
 
 ---
 
+## Chapter 11: Ritual and Practice: Action Patterns
+
+**Status:** ✅ Complete | **Word Count:** 3,963 | **Completed:** 2025-11-19
+
+**Core Argument**: Rituals constitute formalized, repetitive practices that encode procedural knowledge in embodied action, creating synchrony and group cohesion through cognitive mechanisms of procedural memory while simultaneously coordinating ecological resources, signaling social commitment, and embedding authority structures into the body itself. These patterns emerge through convergent evolution across disconnected traditions because they solve universal problems: transmitting knowledge without writing, coordinating groups without centralized communication, creating altered consciousness without pharmacology, and managing resources through sacred calendars aligned with environmental rhythms.
+
+**Key Concepts Introduced**:
+- Ritual complex: formalization (precise, repeatable structure), repetition (cyclical performance encoding procedural memory), transformation (altered consciousness and changed status through performance)
+- Procedural memory and embodied cognition: knowledge encoded through bodily practice operating beneath conscious reasoning
+- Synchrony and costly signaling: coordinated movement creating group cohesion; expensive rituals filtering genuine commitment
+- Ecological coordination through sacred calendars: ritual timing aligning with resource cycles, managing collective action without explicit environmental awareness
+- Historical textualization: oral fluidity transforming into written orthodoxy, creating path dependence in contingent forms
+- Counter-pattern paradox: anti-ritual movements reconstructing ritual structures while claiming to transcend formality
+
+**Major Examples Used**:
+- Islamic salat: five daily prayers demonstrating procedural memory encoding through precise bodily sequences, producing physiological altered states
+- Jewish davening: rhythmic prayer with phylacteries showing embodied commitment signaling and minyan coordination requirements
+- Hindu puja: sixteen-step worship rituals coordinating with lunar cycles, demonstrating variation within structural consistency
+- Buddhist meditation: seated practice producing altered consciousness through sympathetic/parasympathetic activation depending on tradition
+- Balinese water temples: ritual calendars optimizing watershed-scale irrigation and pest management (Chapter 2 callback)
+- Quaker silent worship: counter-pattern revealing anti-ritual becomes ritual through functional necessity of coordination
+
+**Transition to Next Chapter**: Ritual generates not only bodily coordination and altered consciousness but also emotional experience. Participants don't merely perform prescribed actions—they feel devotion, ecstasy, fear, peace, gratitude, awe. Chapter 12 examines emotion and affect as patterns: how religious traditions cultivate specific emotional repertoires, regulate affective states through practiced techniques, and value particular feelings as markers of authentic religious experience. If ritual constitutes the mechanics of religious practice, emotion constitutes its affective dimension—what practitioners feel as they perform and what feelings traditions deliberately engineer through ritual, narrative, music, and contemplative discipline.
+=======
 ## Chapter 12: Emotion and Affect: Feeling Patterns
 
 **Status:** ✅ Complete | **Word Count:** 4,277 | **Completed:** 2025-11-21
