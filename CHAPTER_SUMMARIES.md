@@ -368,3 +368,39 @@ This file maintains narrative continuity across chapters. Each summary is extrac
 
 ---
 
+## Chapter 14: Death and Eschatology: Terminal Patterns
+
+**Status:** ✅ Complete | **Word Count:** 4,282 | **Completed:** 2025-11-21
+
+**Core Argument**: Death constitutes the ultimate boundary requiring cultural mediation. Biological termination creates discontinuity threatening social order, kinship continuity, and meaning itself. Religious traditions transform this rupture into transition through predictable patterns emerging across cognitive, social, ecological, and historical dimensions. Humans construct ritual scaffolding around death through mechanisms operating to create institutionalized transition systems that paradoxically affirm cultural continuity through death's finality.
+
+**Key Concepts Introduced**:
+- Van Gennep's funeral structure: separation-liminality-reincorporation as universal three-phase pattern
+- Four interlocking death patterns: funeral rituals, ancestor veneration, afterlife cosmologies, eschatological time
+- Terror management theory: mortality awareness creating existential anxiety driving religious meaning-making
+- Minimally counterintuitive concepts optimizing deceased memorability (absent yet present, dead yet responsive)
+- Three dominant afterlife frameworks: reincarnation (karma economy), resurrection (judgment paradigm), spirit continuation (ancestor presence)
+- Ecological constraints shaping disposal methods (sky burial, cremation, earth burial, water burial) more than theological preference
+- Resource allocation to the dead revealing ancestor importance through material expenditure
+- Sacred geography emerging through death's spatial concentration (burial grounds, cremation ghats, tombs)
+- Historical elaboration: simple offerings evolving into complex ritual systems, textual canonization freezing contingent practices
+- Secularization revealing functional necessity beneath religious content (ritual structure persisting despite belief erosion)
+
+**Major Examples Used**:
+- Opening comparison: Tibetan sky burial, Jewish taharah/shiva, Yoruba celebratory transition demonstrating structural convergence despite theological divergence
+- Chinese ancestor veneration: spirit tablets (牌位), joss paper economy, Qingming festival, hun/po soul distinction
+- Islamic janazah complex: ghusl washing, kafan shrouding, salat al-janazah, 24-hour burial, Munkar/Nakir questioning, barzakh intermediate realm
+- Hindu reincarnation: karma mechanics, yuga cosmology (Satya through Kali), moksha liberation, atman-Brahman identity
+- Buddhist rebirth: anatta (no-self) doctrine, bardo journey (49 days between death and rebirth), nirvana as craving cessation
+- Jain cosmology: 8.4 million birth destinies, karma as physical substance, sallekhana (ritual fasting unto death)
+- Christian resurrection: bodily transformation, purgatory development, intermediate state debates
+- Islamic post-mortem sequence: grave questioning, barzakh waiting period, Yawm al-Qiyamah judgment day, jannah/jahannam destinations
+- Japanese dual practice: butsudan (Buddhist altars), kamidana (Shinto shelves), Obon festival welcoming ancestors
+- West African ancestor intermediaries: Yoruba/Akan/Fon divination systems, drumming celebrations, death elevating power
+- Archaeological evidence: Natufian graves (12,000 years), Middle Paleolithic burials (50,000+ years), grave goods demonstrating relationship continuity
+- Terror Management Theory: Becker's existential terror, 400+ empirical studies validating mortality salience effects
+
+**Transition to Next Chapter**: Chapter 13 examined how bodily disciplines cultivate spiritual instruments through fasting, asceticism, and somatic regulation. Those practices prepare practitioners for the ultimate corporeal boundary: death itself. Chapter 14 revealed how traditions handle that boundary through funeral rites, ancestor obligations, and afterlife promises. But death doesn't merely end individual existence—it creates spatial concentration. Chapter 15 turns to sacred geography: how burial grounds, pilgrimage sites, tombs, and temples organize space through mortality's presence, creating landscapes where the dead remain powerfully active and the living navigate charged topographies of spiritual significance.
+
+---
+
