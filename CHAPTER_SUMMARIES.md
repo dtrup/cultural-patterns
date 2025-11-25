@@ -437,3 +437,31 @@ This file maintains narrative continuity across chapters. Each summary is extrac
 
 ---
 
+
+## Chapter 16: Mythic Narratives: Story Patterns
+
+**Status:** ✅ Complete | **Word Count:** 4,301 | **Completed:** 2025-11-25
+
+**Core Argument**: Narrative patterns emerge through evolved mechanisms of episodic memory and theory of mind, creating recurring mythic structures (origins, heroes, apocalypses) that transmit identity, encode ecological knowledge, and organize time itself across religious traditions—yet non-narrative traditions demonstrate that sophisticated religious systems can systematically minimize mythological storytelling, revealing story as chosen rather than inevitable.
+
+**Key Concepts Introduced**:
+- Five cosmogonic types: ex nihilo, cosmic egg, world parents, earth-diver, emergence through stages
+- Hero journey structure (Campbell's monomyth) with cross-tradition variations
+- Collective memory as narrative technology sustaining group identity
+- Mythic time versus historical time (Eliade's sacred/profane distinction)
+- Dimensional analysis: cognitive (episodic memory, theory of mind), social (oral transmission, authority control), ecological (environmental encoding), historical (oral fluidity to textual fixation)
+- Narrative functions: knowledge transmission, identity formation, authority legitimation, temporal organization
+- Counter-patterns: Buddhist deconstruction, Daoist paradox, Quaker silence as non-narrative religious systems
+
+**Major Examples Used**:
+- Flood myths across traditions demonstrating ecological narrative emergence (Mesopotamian, Hebrew, Hawaiian, Maya, Aboriginal)
+- Buddhist enlightenment narrative as psychological hero journey with Jātaka tale recursion
+- Genesis creation establishing systematic categorization and divine transcendence
+- Aboriginal songlines as embodied creation narrative integrating geography, navigation, law, and ecology
+- Hindu Nasadiya Sukta demonstrating epistemological humility through questioning rather than asserting
+- Torah annual reading cycle sustaining Jewish identity through collective memory
+- Buddhist/Daoist/Quaker traditions as counter-examples minimizing narrative dominance
+
+**Transition to Next Chapter**: Narratives examined here often encode ethical principles—Adam's disobedience establishes moral failure, Buddha's renunciation models virtue, hero trials test character, creation accounts imply obligations. Yet moral patterns frequently transcend their narrative containers. Chapter 17 explores moral frameworks directly, examining how traditions construct ethical systems through principles, codes, and virtue cultivation that sometimes operate through narrative but often function independently. If this chapter revealed how stories organize meaning, the next examines how values organize behavior—both through stories and beyond them.
+
+---
